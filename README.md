@@ -1,7 +1,10 @@
 # Hi, I’m Jigar 👋  
-**Platform/DevOps Engineer** · AWS | EKS | MLOps | Terraform | CI/CD | Python 
+**Senior Cloud Platform / DevOps Engineer**
+AWS · Kubernetes/EKS · Terraform Enterprise · GitOps · CI/CD · LLMOps
 
 I design, build, and operate reliable cloud platforms—containers and serverless—with guardrails that make shipping fast, safe, and boring (in the best way). I care about simple architectures, measurable reliability, and removing toil with automation.
+
+Over 5+ years, I’ve delivered AWS, Kubernetes, Terraform Enterprise, GitOps, CI/CD, observability, and disaster-recovery capabilities for enterprise teams across multi-account, multi-environment platforms.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jigar--makwana-blue?logo=linkedin)](https://www.linkedin.com/in/jigar-makwana)
 [![Location](https://img.shields.io/badge/DFW%20(Plano%2C%20TX)-Hybrid%20%7C%20Remote-informational)](#)
@@ -10,12 +13,13 @@ I design, build, and operate reliable cloud platforms—containers and serverles
 ---
 
 ## What I’m good at
-- **Cloud:** AWS (EKS, EC2, VPC, IAM, RDS/DynamoDB, S3, Lambda, Step Functions, API Gateway, CloudWatch)
-- **IaC & Config:** Terraform, CloudFormation, Helm, Kustomize, Ansible
-- **Containers & Orchestration:** Kubernetes/EKS, ArgoCD (GitOps), containerd/Docker, AWS ECR
-- **CI/CD:** Harness (NextGen), Jenkins, GitHub Actions, CodeBuild/CodePipeline
-- **Observability & Ops:** Fluent Bit, ELK, Datadog, Prometheus, SLO/SLI, alerting, runbooks
-- **Languages:** Python, Go (basics), C# (basics), Bash, PowerShell
+
+* **Cloud:** AWS, EKS, ECS, EC2, VPC, IAM, Route 53, RDS/Aurora PostgreSQL, Redis, S3, Lambda, API Gateway, CloudWatch, Glue, MWAA/Airflow
+* **Kubernetes / GitOps:** Kubernetes, Docker, ArgoCD, Kustomize, Helm, RBAC, Ingress, ACM/TLS, KEDA
+* **IaC / CI/CD:** Terraform, Terraform Enterprise, CloudFormation, Harness, GitHub Actions, Jenkins, CodeBuild, CodePipeline, Packer, Ansible
+* **Reliability / Observability:** Datadog DBM/APM, Splunk, Fluent Bit, CloudWatch, ELK, Prometheus, Grafana, incident response, RCA support
+* **Security / Data:** IAM, KMS, Secrets Manager, RDS IAM authentication, pgAudit, PostgreSQL, Kafka, Glue, Airflow, dbt
+* **Automation:** Python, Bash, PowerShell, Go, REST APIs, AWS Lambda, event-driven automation
 
 ---
 
@@ -28,11 +32,8 @@ I design, build, and operate reliable cloud platforms—containers and serverles
 
 ---
 
-## I’m open to
-- Platform/DevOps roles (DFW hybrid or US-remote)  
-- EKS & GitOps modernization  
-- CI/CD and policy guardrails (Terraform, Harness/ArgoCD)  
-- Observability pipelines (Fluent Bit, Datadog/ELK)  
-- Pragmatic GenAI for ops (log summarization, verification)
+## Focus areas
+
+Platform Engineering · AWS & Kubernetes Modernization · Terraform Enterprise · GitOps · CI/CD Reliability · Observability · Disaster Recovery · LLMOps
 
 **Contact:** `winch-denials9q@icloud.com`
